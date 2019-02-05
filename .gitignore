@@ -1,5 +1,7 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
 
 ### STS ###
 .apt_generated
@@ -23,3 +25,8 @@
 /nbdist/
 /.nb-gradle/
 /build/
+.mvn/
+src/main/java/io/github/vfalkenberg/defaultcrudapp/config/
+src/main/java/io/github/vfalkenberg/defaultcrudapp/service/exception/
+src/main/resources/static/
+src/main/resources/templates/
